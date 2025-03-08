@@ -35,7 +35,7 @@ googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
-- title: "bilibili"
+- title:" bilibili"
   icon: "fab fa-bilibili"
   url: "https://space.bilibili.com/517788498?spm_id_from=333.788.0.0"
 # - title: another link
