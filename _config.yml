@@ -52,13 +52,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "assets/avatar.jpg"
 about_content: | # this will include new lines to allow paragraphs
-"Li Mingxuan, an undergraduate student majoring in Artificial Intelligence. I have a strong passion for machine learning and deep learning, 
+ Li Mingxuan, an undergraduate student majoring in Artificial Intelligence. I have a strong passion for machine learning and deep learning, 
  having applied these technologies in multiple projects. You can visit [my website](https://github.com/LiMingXuan911) to learn more about me. 
  I am particularly skilled in using Python and TensorFlow, and have conducted in-depth research in Natural Language Processing (NLP).
 
-  - 技能：Python、TensorFlow、自然语言处理
-  - 项目经验：开发了一个基于深度学习的文本分类系统
-  - 联系方式：[邮箱](mailto:2157872897@qq.com) | [GitHub](https://github.com/LiMingXuan911)"
+  - Skills：Python、TensorFlow、Natural Language Processing (NLP)
+  - Project Experience：Deep Learning-Based Text Classification System
+  - Contact Information：[Email](mailto:2157872897@qq.com) | [GitHub](https://github.com/LiMingXuan911)
 
 content:
   - title: Projects # Title for the section
