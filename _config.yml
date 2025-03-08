@@ -12,23 +12,23 @@ email: "2157872897@qq.com"
 # email_title: Email (Email title override)
 phone: "123456"
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: "https://github.com/LiMingXuan911"
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
+twitter_username: "李明轩"
 github_username:  "LiMingXuan911"
 stackoverflow_username: "00000001"
-dribbble_username: jekyll
+dribbble_username: "李明轩"
 facebook_username: "李明轩"
-flickr_username: jekyll
+flickr_username: "李明轩"
 instagram_username: "李明轩"
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
+linkedin_username: "李明轩"
+xing_username: "李明轩"
+pinterest_username: "李明轩"
 youtube_username: "李明轩"
 orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
@@ -52,15 +52,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "assets/avatar.jpg"
 about_content: | # this will include new lines to allow paragraphs
- 我是李明轩，一名人工智能专业的本科生。我对机器学习和深度学习有浓厚的兴趣，曾在多个项目中应用这些技术。你可以访问我的 [个人网站](https://github.com/LiMingXuan911) 了解更多关于我的信息。我特别擅长使用 Python 和 TensorFlow，也对自然语言处理有深入的研究。
+ "我是李明轩，一名人工智能专业的本科生。我对机器学习和深度学习有浓厚的兴趣，曾在多个项目中应用这些技术。你可以访问我的 [个人网站](https://github.com/LiMingXuan911) 了解更多关于我的信息。我特别擅长使用 Python 和 TensorFlow，也对自然语言处理有深入的研究。
   - 技能：Python、TensorFlow、自然语言处理
   - 项目经验：开发了一个基于深度学习的文本分类系统
-  - 联系方式：[邮箱](mailto:2157872897@qq.com) | [GitHub](https://github.com/LiMingXuan911)
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  - 联系方式：[邮箱](mailto:2157872897@qq.com) | [GitHub](https://github.com/LiMingXuan911)"
 
 content:
   - title: Projects # Title for the section
